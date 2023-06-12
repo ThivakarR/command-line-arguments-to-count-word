@@ -34,9 +34,7 @@ print("no of words in a file",count)
 ```
 
 ### OUTPUT:
-![dbd3c0f2-3fc0-4fc6-9ba3-ae8f34b4b9ff](https://github.com/ThivakarR/command-line-arguments-to-count-word/assets/118707074/5fdb5bf3-1fb4-40fe-891a-a2100241dd1d)
-
-
+![image](https://github.com/ThivakarR/command-line-arguments-to-count-word/assets/118707074/526050f2-4ffe-4cd4-9931-b07ed424df1c)
 
 
 ## RESULT:
